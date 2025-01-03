@@ -35,7 +35,7 @@ Sou um engenheiro de software apaixonado com foco no desenvolvimento Front-End e
 ---
 
 ## 🌍 Entre em Contato
-- [LinkedIn](https://www.linkedin.com/in/rodrigo-silva736267160/)
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-silva-736267160/)
 - [GitHub](https://github.com/dygozzz)
 - E-mail: rodrigo2201silva@gmail.com
 - Telefone: +55(19)98212-7292
