@@ -35,7 +35,7 @@ I'm a passionate Software Engineer with a focus on Front-End development and UI/
 ---
 
 ## 🌍 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/rodrigo-silva736267160/)
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-silva-736267160/)
 - [GitHub](https://github.com/dygozzz)
 - Email: rodrigo2201silva@gmail.com
 - Phone: +55(19)98212-7292
