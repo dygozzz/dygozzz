@@ -45,7 +45,7 @@ I'm a passionate Software Engineer with a focus on Front-End development and UI/
 - [GitHub](https://github.com/dygozzz)
 - Email: rodrigo2201silva@gmail.com
 - Phone: +55(19)98212-7292
-- Portfolio: [My Portfolio](https://rodrigos-stunning-site-3b7953.webflow.io/)
+- [Portfolio](https://rodrigos-stunning-site-3b7953.webflow.io/)
 
 ---
 
