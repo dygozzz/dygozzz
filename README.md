@@ -21,6 +21,12 @@ I'm a passionate Software Engineer with a focus on Front-End development and UI/
 
 ## 🚀 Experience
 
+### **Junior Front-End Developer** | MsTech | Feb 2024 – Present
+- Modernized and improved the design of government-facing applications, focusing on usability and accessibility.
+- Developed front-end features using Angular, TypeScript, and Tailwind CSS.
+- Translated Figma prototypes into production-ready interfaces for public school management systems.
+- Ensured responsive design and accessibility across different devices and screen sizes.
+
 ### **Software Engineer Front-End** | Cores Technology | Jun 2024 - Nov 2024
 - Developed and implemented new screens and improvements for client-facing applications using Vue.js, Nuxt, TypeScript, and Tailwind CSS.
 - Collaborated on an AI update for an existing application, improving processes for sales, purchases, and organization.
