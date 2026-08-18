@@ -29,6 +29,22 @@ training.
 
 ---
 
+### 📱 [coraGO](https://github.com/dygozzz/coraGO)
+
+An Android travel assistant that runs the LLM **inside the phone** — no server, no API key,
+no network call at runtime. Flutter, ~37k lines of Dart.
+
+Qwen 2.5 1.5B via llama.cpp, with **hybrid RAG** before every message (SQLite FTS5/BM25 plus
+384-dimension embeddings written in pure Dart) over knowledge packs built from Wikivoyage.
+
+**What I learned building it:** I wrote a full tool-calling layer — eight tools, wired
+end to end — and then switched it off. Without a grammar constraining the output, a 1.5B
+model emits a tool call for a bare *"hello"*. A false positive on trivial input is worse
+than not having the feature, so it stays documented and disabled until a constrained-decoding
+runtime is available.
+
+---
+
 ### Stack
 
 **AI/LLM** — RAG · pgvector (HNSW) · embeddings · cross-encoder rerankers · Reciprocal Rank
@@ -38,7 +54,7 @@ llama.cpp
 **Backend** — Java 21 · Spring Boot · Rust · PostgreSQL (pgvector, Row-Level Security) ·
 SQLite · OpenAPI contract-first
 
-**Frontend** — TypeScript · Vue 3 · Nuxt · Angular · Tauri
+**Frontend / Mobile** — TypeScript · Vue 3 · Nuxt · Angular · Tauri · Flutter/Dart
 
 **Quality** — Playwright · GitHub Actions · benchmarking
 
