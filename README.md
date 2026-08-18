@@ -46,6 +46,6 @@ SQLite · OpenAPI contract-first
 
 📍 Bauru, Brazil · 🌐 Portuguese (native), English (C2)
 
-[LinkedIn](https://www.linkedin.com/in/rodrigosilva-736267160) · rodrigo2201silva@gmail.com
+[LinkedIn](https://www.linkedin.com/in/rodrigo-silva-736267160) · rodrigo2201silva@gmail.com
 
 Open to AI Engineer and full-stack roles — Brazil, Portugal, Spain.
