@@ -1,9 +1,8 @@
 ## Rodrigo Silva
 
 Full-Stack Software Engineer working in applied AI — LLMs, RAG, semantic search and
-evaluation. I build the layers underneath:
-inference backends, retrieval pipelines, and the harnesses that tell me whether any of it
-actually works.
+evaluation. I build the layers underneath: inference backends, retrieval pipelines, and
+the harnesses that tell me whether any of it actually works.
 
 I work in Java, Rust and TypeScript. Currently at Bluedu, where I built the core of two AI
 products: a desktop application running local inference (Rust + Tauri, interchangeable
