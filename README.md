@@ -1,6 +1,7 @@
 ## Rodrigo Silva
 
-AI Engineer — LLMs, RAG, semantic search and evaluation. I build the layers underneath:
+Full-Stack Software Engineer working in applied AI — LLMs, RAG, semantic search and
+evaluation. I build the layers underneath:
 inference backends, retrieval pipelines, and the harnesses that tell me whether any of it
 actually works.
 
